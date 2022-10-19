@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mi app</string>
+    <string name="item1">Bienvenida</string>
+    <string name="item2">Creado por..</string>
+    <string name="item3">Agradecimiento</string>
+</resources>
